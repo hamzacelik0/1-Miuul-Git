@@ -1,0 +1,5 @@
+#comment
+special.txt
+
+#dosyalar
+data/
